@@ -5,7 +5,7 @@
 
 - 📫 How to reach me ...
   - https://orcid.org/0000-0002-7091-0283
-  - https://mastodon.lol/@lavaeolus
+  - https://fedihum.org/@lavaeolus
 
 
 <!---
